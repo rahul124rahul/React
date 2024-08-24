@@ -1,0 +1,20 @@
+
+.heading{
+	color: cyan;
+	font-size: 60px;
+	font-weight: 800;
+	font-family:'Courier New', Courier, monospace;
+	
+}
+
+.cal{
+	border: 1.5px solid greenyellow;
+	border-radius: 25px;
+	padding: 2rem;
+	color: rgb(46, 46, 255);
+	background-color: black(26, 21, 21);
+	max-width:max-content;
+	outline: none;
+	width: 450px;
+}
+
